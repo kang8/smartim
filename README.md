@@ -1,3 +1,5 @@
+> fork for `ybisan/smartim`, merge [ybian/smartim#26](https://github.com/ybian/smartim/pull/26)
+
 # What is this?
 
 SmartIM is a plugin to make vim stand well with input methods. It switches
@@ -13,12 +15,12 @@ It is Mac-only for now.
 
 ## Vundle
 1. Add this line to your ~/.vimrc file:
-```Plugin 'ybian/smartim'```
+```Plugin 'kang8/smartim'```
 2. Open vim and run `:PluginInstall`
 
 ## Pathogen
 1. `cd ~/.vim/bundle`
-2. `git clone git@github.com:ybian/smartim.git`
+2. `git clone git@github.com:kang8/smartim.git`
 
 ## Others
 1. Clone this repository to your local disk
